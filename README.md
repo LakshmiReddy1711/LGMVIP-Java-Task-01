@@ -1,8 +1,15 @@
 # LGMVIP-Java-Task-01
 
-Technologies Required - Java programming language, Java Servlets Web Features, Applet, and Ajax.
+Technologies Required -
+----------------------
 
-Project Description - The purpose of this Java project is to convert a currency from one to another. 
+Java programming language, Java Servlets Web Features, Applet, and Ajax.
+
+
+Project Description -
+-----------------------
+
+The purpose of this Java project is to convert a currency from one to another. 
 
 A web-based interface for converting currency and getting the output value, for example, here displays converting the currency of the US dollar to INR. 
 
